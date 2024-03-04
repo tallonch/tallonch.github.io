@@ -1,2 +1,1 @@
-# tallonch.github.io
-GitHub page
+# Hi I'm Chase Tallon!
